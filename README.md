@@ -7,7 +7,5 @@ Farmers who grow potatoes are often plagued by serious financial losses each yea
 ## Project Description
 Development of a deep learning project in the field of agriculture We will create a simple image classification model that will categorize Potato Leaf Disease using a simple convolutional neural network architecture. We'll start by collecting the data, and then we'll build models to explain it.
 
-## Data Collection
-Using data that I got from Kaggle.
-Dataset Link: https://www.kaggle.com/abdallahalidev/plantvillage-dataset
+
 
